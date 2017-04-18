@@ -1,4 +1,4 @@
 Project-Korin
 =============
 
-roguelike game
+roguelike game, my first attempt to make one, very outdated.
